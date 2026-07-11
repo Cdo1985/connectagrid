@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Grid",
+  "description": "An immersive geometric grid-linking puzzle game with full audio synthesis, puzzle progression, and subroutines, styled in the Geometric Balance design theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
